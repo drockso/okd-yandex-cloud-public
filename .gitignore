@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.*
+*.hcl
+bin/*
+temp/*
+images/*
+/terraform/.terraform/*
+okd-ignition/*
